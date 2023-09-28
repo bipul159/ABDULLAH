@@ -171,7 +171,7 @@ class __crack__:
 			print('\n \033[1;37m[!] \033[1;31mFile Not Found In Storage')
 			input('\n\033[1;37m[*] \033[1;36mPress Enter To Back');main()
 		self.__pler__() 
-	def __mbasic__(self, user, _semp
+	def __mbasic__(self, user, _semp)
 		global ok,cp,loop
 		sys.stdout.write(f"\r \x1b[1;97m[\033[1;36mALI\033[1;37m] {loop}/{len(self.id)} \033[1;37m[\033[1;36mTOTAL-Idz\033[1;37m] \033[1;37m[\033[1;36m{len(ok)}\033[1;37m]")
 		sys.stdout.flush()
